@@ -1,0 +1,3 @@
+﻿  func.cpp
+C:\Users\Пользователь\source\repos\task_2_1.c++\task_2_1.c++\func.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task_2_1.c++.vcxproj -> C:\Users\Пользователь\source\repos\task_2_1.c++\Debug\task_2_1.c++.exe
